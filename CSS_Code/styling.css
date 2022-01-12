@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    background-color: #96CEB4;
+}
+
+.top {
+    background-color: powderblue;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.content {
+    background-color: #96CEB4;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.content p {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 30px;
+}
+
+.myskills {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.cloud1 {
+    position: absolute;
+}
+
+.cloud2 {
+    position: absolute;
+    right: 440px;
+    top: 100px;
+}
+
+.mountain {
+    position: relative;
+    top: 5px;
+}
+
+.title {
+    background-color: powderblue;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Pacifico', cursive;
+}
+
+.greeting {
+    padding-top: 50px;
+    font-size: 540%;
+}
+
+h2 {
+    padding-top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.computer {
+    height: 100px;
+    width: 100px;
+    background-color: none;
+    text-align: left;
+}
+
+.bear {
+    height: 100px;
+    width: 100px;
+}
+
+.Name {
+    display: inline;
+    position: relative;
+    bottom: 60px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: left;
+}
+
+.skill {
+    height: 128px;
+    width: 128px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    border-color: #D3DEDC;
+}
+
+
+ul {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 5px;
+}
+    
+li {
+    display: inline-block;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 5px;
+}
+
+.cright {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    background-color: #93FFD8;
+    text-align: center;
+}
+
+
+.btn {
+    background: #96CEB4;
+    background-image: -webkit-linear-gradient(top, #96CEB4, #93FFD8);
+    background-image: -moz-linear-gradient(top, #96CEB4, #93FFD8);
+    background-image: -ms-linear-gradient(top, #96CEB4, #93FFD8);
+    background-image: -o-linear-gradient(top, #96CEB4, #93FFD8);
+    background-image: linear-gradient(to bottom, #96CEB4, #93FFD8);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #080808;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    bottom: 10px;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
